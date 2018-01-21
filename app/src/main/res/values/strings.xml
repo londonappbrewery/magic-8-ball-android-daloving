@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="main_text">Welcome to Delphi</string>
+    <string name="button_text">Consult the oracle...</string>
 </resources>
